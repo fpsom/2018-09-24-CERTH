@@ -28,6 +28,18 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
   And run 'make workshop-check' *before* committing to make sure that changes are good.
 {% endcomment %}
 
+<h2 id="certh">Sponsors</h2>
+This workshop is possible thanks to the collaboration of the following entities, which allow us to do this under our working schedule and contribute to the associated costs.
+
+
+<div class="sponsor-logos">
+  <a href="http://inab.certh.gr" title="INAB - CERTH, Greece">
+    <img style="margin-right:50px" alt="AUTh" src="fig/INAB-Logo-EN.PNG" width="190"/>
+  </a>
+</div>
+
+
+
 {% comment %}
   EVENTBRITE
 
