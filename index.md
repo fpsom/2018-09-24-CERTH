@@ -29,13 +29,33 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 {% endcomment %}
 
 <h2 id="certh">Sponsors</h2>
-This workshop is possible thanks to the collaboration of the following entities, which allow us to do this under our working schedule and contribute to the associated costs.
+This workshop is funded by the MEDGENET project. This project has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement No 692298. _Disclaimer: This website and included materials reflect only the author’s view and the Research Executive Agency is not responsible for any use that may be made of the information it contains._
 
 <div class="sponsor-logos">
   <a href="http://old.ceitec.eu/medgenet/" title="MEDGENET Project">
-    <img style="margin-right:50px" alt="MEDGENET" src="fig/medgenet-logo.png" width="190"/>
-    </a>
-  <a href="http://inab.certh.gr" title="INAB - CERTH, Greece">
+    <img style="margin-right:50px" alt="MEDGENET" src="fig/EU-Logo.jpg" width="190"/>
+  </a>
+  <a href="https://ec.europa.eu/programmes/horizon2020/" title="EU Horizon 2020">
+    <img style="margin-right:50px" alt="EU" src="fig/medgenet-logo.png" width="190"/>
+  </a>
+</div>  
+
+Finally, this workshop is possible thanks to the collaboration of the following entities, which allow us to do this under our working schedule and contribute to the associated costs.
+
+<div class="partner-logos">
+  <a href="https://www.ceitec.eu/" title="CEITEC, Czech Republic">
+    <img style="margin-right:50px" alt="CEITEC" src="fig/CEITEC.png" width="190"/>
+  </a>
+  <a href="https://www.embl.de/" title="EMBL, Germany">
+    <img style="margin-right:50px" alt="EMBL" src="fig/embl.jpg" width="190"/>
+  </a>
+  <a href="https://www.uu.se/en/" title="Uppsala University, Sweden">
+    <img style="margin-right:50px" alt="Uppsala" src="fig/uppsala.jpg" width="190"/>
+  </a>
+  <a href="https://www.certh.gr" title="CERTH, Greece">
+    <img style="margin-right:50px" alt="CERTH" src="fig/certh.jpg" width="190"/>
+  </a>
+  <a href="http://inab.certh.gr" title="INAB|CERTH, Greece">
     <img style="margin-right:50px" alt="INAB" src="fig/INAB-logo.png" width="190"/>
   </a>
 </div>
