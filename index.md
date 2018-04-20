@@ -13,8 +13,8 @@ enddate: 2018-09-25        # machine-readable end date for the workshop in YYYY-
 instructor: ["Fotis E. Psomopoulos", "Thea van Rossum", "Renato Alves"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
 helper: ["Maria Kotouza"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["fpsom@certh.gr", "thea.van.rossum@embl.de", "renato.alves@embl.de"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
-collaborative_notes:             # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document
-eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
+collaborative_notes: http://pad.software-carpentry.org/2018-09-24-CERTH             # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document
+eventbrite: 45371076110          # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 ---
 
 {% comment %} See instructions in the comments below for how to edit specific sections of this workshop template. {% endcomment %}
@@ -32,7 +32,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 This workshop is funded by the MEDGENET project. This project has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement No 692298. _Disclaimer: This website and included materials reflect only the author’s view and the Research Executive Agency is not responsible for any use that may be made of the information it contains._
 
 <div class="sponsor-logos">
-  <a href="http://old.ceitec.eu/medgenet/" title="MEDGENET Project">
+  <a href="http://medgenet.ceitec.cz/" title="MEDGENET Project">
     <img style="margin-right:50px" alt="MEDGENET" src="fig/EU-Logo.jpg" width="190"/>
   </a>
   <a href="https://ec.europa.eu/programmes/horizon2020/" title="EU Horizon 2020">
